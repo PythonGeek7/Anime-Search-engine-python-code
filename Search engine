@@ -1,0 +1,18 @@
+print("WELCOME TO ANIME SEARCH ENGINE")
+print("list of anime's available: Attack on Titan, One Punch Man, One Piece, Dragon Ball, and for other anime's enter - Other")                                  
+a= input("Which anime do you want to watch: ")
+if a == "Attack On Titan":
+         print("ok here is the link: https://animixplay.to/?q=Attack%20On%20Titan")
+
+if a == "One Punch Man":
+         print("ok here is the link: https://animixplay.to/?q=One%20Punch%20Man")
+         
+if a == "One Piece":
+         print("ok here is the link: https://animixplay.to/?q=One%20Piece")
+         
+if a == "Dragon Ball":
+         print("ok here is the link: https://animixplay.to/?q=Dragon%20Ball")         
+
+if a == "Other":
+         print("You can find many anime series in this site: animixplay.to")
+         print("If you cant find the anime you are searching please check other anime sites like crunchyroll,aniflap,etc.")
